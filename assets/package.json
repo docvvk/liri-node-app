@@ -1,0 +1,27 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vivek Malhan",
+  "license": "ISC",
+  "description": "liri node app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docvvk/liri-node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/docvvk/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/docvvk/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
