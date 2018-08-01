@@ -9,8 +9,11 @@ var request = require('request');
 var Twitter = require('twitter');
 var Spotify = require('node-spotify-api');
 
+
 var getTweets = () => {
     var client = new Twitter(keys.twitterKeys);
+
+    // console.log(client);
     
     var params = {screen_name: 'shaurya', count: 1};
   
@@ -30,7 +33,7 @@ var getTweets = () => {
             console.log(chalk.bgYellow.blue(JSON.stringify(data, null, 2)));
             // console.log(response);
             dataToLog(data);
-            console.log(chalk.bold.red("------------------------------------------------------------------------------------"));
+            console.log(chalk.bold.red("-----------------------------------------"));
             var rainbow = chalkAnimation.rainbow('log.txt updated !');
             setTimeout(()=> {
                 rainbow.stop(); // Animation Stops
