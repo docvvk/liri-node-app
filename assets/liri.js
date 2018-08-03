@@ -1,4 +1,4 @@
-require("dotenv").config();
+// require("dotenv").config();
 
 const chalk = require('chalk');
 const chalkAnimation = require('chalk-animation');
@@ -15,7 +15,7 @@ var getTweets = () => {
 
     // console.log(client);
     
-    var params = {screen_name: 'shaurya', count: 1};
+    var params = {screen_name: 'shaurya', count: 10};
   
     client.get('statuses/user_timeline', params, function(error, tweets, response) {
         if (error) {

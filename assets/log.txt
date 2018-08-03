@@ -776,3 +776,177 @@
   "preview": null,
   "album": "20th Century Masters: The Millennium Collection: The Best Of Robert Palmer"
 }
+{
+  "artist": "Saving Abel",
+  "name": "Addicted",
+  "preview": null,
+  "album": "Saving Abel"
+}
+{
+  "artist": "VanJess",
+  "name": "Addicted",
+  "preview": "https://p.scdn.co/mp3-preview/1af70a2fd5722928d3405de09c258186d6cd416b?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Addicted"
+}
+{
+  "artist": "Simple Plan",
+  "name": "Addicted",
+  "preview": "https://p.scdn.co/mp3-preview/032f2a6c1082e5721f1c33571cfff3ef2288ed34?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)"
+}
+{
+  "artist": "M City JR",
+  "name": "Addicted To My Ex",
+  "preview": "https://p.scdn.co/mp3-preview/4ebd74207ffa4526ce1d16e3ea4e98eeab5cc087?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Addicted To My Ex"
+}
+{
+  "artist": "Gucci Mane",
+  "name": "Addicted",
+  "preview": "https://p.scdn.co/mp3-preview/5e6182e638f63772b0ea182472eec97cc54828cf?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "WOPTOBER"
+}
+{
+  "artist": "Avicii",
+  "name": "Addicted To You",
+  "preview": null,
+  "album": "True"
+}
+{
+  "artist": "Robert Palmer",
+  "name": "Addicted To Love",
+  "preview": null,
+  "album": "Riptide"
+}
+{
+  "artist": "Popcaan",
+  "name": "Addicted",
+  "preview": "https://p.scdn.co/mp3-preview/9f61d0ad358216a01815398bdc91c6cdfd6254ff?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Addicted (Produced by Anju Blaxx)"
+}
+{
+  "artist": "Amy Winehouse",
+  "name": "Addicted",
+  "preview": null,
+  "album": "Back To Black"
+}
+{
+  "artist": "Shakira",
+  "name": "Addicted to You",
+  "preview": "https://p.scdn.co/mp3-preview/545fdd0b68141028ae1924ab48373685377a5c81?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Sale el Sol"
+}
+{
+  "artist": "Kamaiyah",
+  "name": "Addicted To Ballin' (feat. ScHoolboy Q)",
+  "preview": null,
+  "album": "Addicted To Ballin' (feat. ScHoolboy Q)"
+}
+{
+  "artist": "Maluma",
+  "name": "Addicted",
+  "preview": "https://p.scdn.co/mp3-preview/456f26ca09fe873b04adf8e469355cac8e8c3cb8?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "PB.DB. The Mixtape"
+}
+{
+  "artist": "Zedd",
+  "name": "Addicted To A Memory",
+  "preview": null,
+  "album": "True Colors"
+}
+{
+  "artist": "pettersson",
+  "name": "i am addicted to sleep",
+  "preview": "https://p.scdn.co/mp3-preview/28ad6957a722359a97b0145d03b367dd69c90d84?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "i am addicted to sleep"
+}
+{
+  "artist": "Shaun Frank",
+  "name": "Addicted",
+  "preview": "https://p.scdn.co/mp3-preview/57dc07d4808554e955dbb6e70c51c3408d2f65ed?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Addicted"
+}
+{
+  "artist": "Alter Bridge",
+  "name": "Addicted To Pain",
+  "preview": null,
+  "album": "Fortress"
+}
+{
+  "artist": "The Night Café",
+  "name": "Addicted",
+  "preview": "https://p.scdn.co/mp3-preview/e7af282b24ccdc22e7b343e06c780da01561fb56?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Addicted"
+}
+{
+  "artist": "Florence + The Machine",
+  "name": "Addicted To Love",
+  "preview": null,
+  "album": "Lungs (Deluxe Edition)"
+}
+{
+  "artist": "Katchafire",
+  "name": "Addicted",
+  "preview": "https://p.scdn.co/mp3-preview/bf196494aab60f71f90ffbbe02940341683f2e5d?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Addicted - Single"
+}
+{
+  "artist": "Robert Palmer",
+  "name": "Addicted To Love",
+  "preview": null,
+  "album": "20th Century Masters: The Millennium Collection: The Best Of Robert Palmer"
+}
+{
+  "TIME": "Fri Aug 03 00:25:58 +0000 2018",
+  "TWEET": "RT @LaughingBudhhu_: When you're just born and Abbu says, \"Babu ko le aao, hakeem ji khatna karne aaye hain\" https://t.co/RFe9rWRtc0"
+}
+{
+  "TIME": "Fri Aug 03 00:25:58 +0000 2018",
+  "TWEET": "RT @LaughingBudhhu_: When you're just born and Abbu says, \"Babu ko le aao, hakeem ji khatna karne aaye hain\" https://t.co/RFe9rWRtc0"
+}
+{
+  "TIME": "Fri Aug 03 00:19:02 +0000 2018",
+  "TWEET": "RT @hinadirah: #JamesBaldwin's response to a Yale professor asking “So why must we always concentrate on color?” is still the most fire ans…"
+}
+{
+  "TIME": "Thu Aug 02 19:52:38 +0000 2018",
+  "TWEET": "@Aashish98125671 Main Yeh bekaar like app par hun bhi nahin. Twitter user karne se pehle seekh toh leta? Facebook I… https://t.co/FV3FDhdKGN"
+}
+{
+  "TIME": "Thu Aug 02 19:51:17 +0000 2018",
+  "TWEET": "@Aashish98125671 Gadhe. Mujhe tag Kyun kiya. Bewakoof"
+}
+{
+  "TIME": "Wed Aug 01 18:24:19 +0000 2018",
+  "TWEET": "RT @CryptoNature: If you write out the basic facts of trees, but framed as technology, it sounds like impossible sci-fi nonsense. Self-repl…"
+}
+{
+  "TIME": "Thu Aug 02 06:30:38 +0000 2018",
+  "TWEET": "RT @NBAunwrapped: What the I Promise School provides:\n\n•Free tuition \n•Free uniforms \n•Free bicycle &amp; helmet\n•Free transportation within 2…"
+}
+{
+  "TIME": "Sun Jul 29 14:54:10 +0000 2018",
+  "TWEET": "RT @IshitaYadav: Sunday done right. https://t.co/dAIN3uXCMB"
+}
+{
+  "TIME": "Mon Jul 30 02:28:01 +0000 2018",
+  "TWEET": "RT @lookwhoshira: Thought I was meowing back to my cat for the past hour but it turns out it was just me and my dad meowing at each other f…"
+}
+{
+  "TIME": "Sun Jul 29 12:59:52 +0000 2018",
+  "TWEET": "RT @FMusque: ze tesla cars catch fire so zat you may easily toast your croissants"
+}
+{
+  "TIME": "Fri Jul 27 19:09:49 +0000 2018",
+  "TWEET": "RT @HomeOfCricket: Due to the abnormally warm temperatures, MCC has decided to dispense with requirement for gentlemen to wear jackets in t…"
+}
+{
+  "title": "Title: 300",
+  "release": "Year released: 2006",
+  "imdbRating": "IMDB Rating: 7.7/10",
+  "rottenTomatoes": "Rotten Tomatoes Rating: 60%",
+  "country": "Film produced in USA",
+  "language": "This film is in English",
+  "plot": "Synopsis: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.",
+  "actors": "Actors: Gerard Butler, Lena Headey, Dominic West, David Wenham"
+}
