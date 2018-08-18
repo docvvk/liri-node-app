@@ -950,3 +950,293 @@
   "plot": "Synopsis: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.",
   "actors": "Actors: Gerard Butler, Lena Headey, Dominic West, David Wenham"
 }
+{
+  "TIME": "Fri Aug 17 16:44:29 +0000 2018",
+  "TWEET": "RT @TKissack20: i posted it on snapchat already but twitter deserves this video of Lilo 😂😂 https://t.co/66ls05Vd8h"
+}
+{
+  "TIME": "Wed Aug 15 12:46:05 +0000 2018",
+  "TWEET": "RT @bdsams: AI has peaked. https://t.co/xYynF7azUt"
+}
+{
+  "TIME": "Sat Aug 11 02:29:44 +0000 2018",
+  "TWEET": "RT @TheEconomist: Fifty years on, Led Zeppelin are still idols for aspiring rock stars https://t.co/i0q3wfCnXk"
+}
+{
+  "TIME": "Sat Aug 11 18:07:03 +0000 2018",
+  "TWEET": "RT @CapitalistSage: An uncle of mine is upset with me. Cz-\n1. I fiercely debated as he was trying to legitimise lynching \n2. I disagreed wi…"
+}
+{
+  "TIME": "Sat Aug 11 02:27:30 +0000 2018",
+  "TWEET": "RT @bd_highsmith: This week, I was in a crunch and called my parents; they decided to give me $32k from my grandmother’s recent inheritance…"
+}
+{
+  "TIME": "Sat Aug 11 01:52:11 +0000 2018",
+  "TWEET": "RT @lauratnelson: My mom: wow it’s so nice of Jeff to watch your kids for the next few days while you’re gone \n\nMe: yes, he is very excited…"
+}
+{
+  "TIME": "Sat Aug 11 01:55:14 +0000 2018",
+  "TWEET": "RT @joecarter: When your spouse notices you're about to respond to a provocation on social media. https://t.co/slfDTGF2Yk"
+}
+{
+  "TIME": "Thu Aug 09 10:36:34 +0000 2018",
+  "TWEET": "RT @manaman_chhina: Goons at work in Delhi. Absolute thugs. https://t.co/2xBqj0xK8N"
+}
+{
+  "TIME": "Tue Aug 07 18:19:15 +0000 2018",
+  "TWEET": "RT @trickaduu: One of my favourite things ever is the 300 year gap in Irish inventions after whiskey was invented https://t.co/PL3TV1O9OL"
+}
+{
+  "TIME": "Sat Aug 04 22:33:59 +0000 2018",
+  "TWEET": "RT @hexprax: Please stop inviting me to bars where I have to stand up the whole time I'm not a dairy cow"
+}
+{
+  "artist": "Ace of Base",
+  "name": "The Sign",
+  "preview": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "All That She Wants",
+  "preview": "https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "The Sign",
+  "preview": "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Greatest Hits"
+}
+{
+  "artist": "Ace of Base",
+  "name": "Don't Turn Around",
+  "preview": "https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "Living in Danger",
+  "preview": "https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "Wheel of Fortune",
+  "preview": "https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "Happy Nation",
+  "preview": "https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "Dancer in a Daydream",
+  "preview": "https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "Young and Proud",
+  "preview": "https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "Waiting for Magic - Total Remix 7\" Version",
+  "preview": "https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "The Sign",
+  "preview": "https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Happy Nation (U.S. Version) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "Voulez-Vous danser",
+  "preview": "https://p.scdn.co/mp3-preview/59e0c99409733c86980e74a829b11e058b2af822?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "The Sign",
+  "preview": "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (The Remixes)"
+}
+{
+  "artist": "Ace of Base",
+  "name": "My Mind - Mindless Mix",
+  "preview": "https://p.scdn.co/mp3-preview/d69b572cb2ab4e83492dbe2b3b2dad747440dd72?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "All That She Wants - Banghra Version",
+  "preview": "https://p.scdn.co/mp3-preview/25887b631bc11ce0486bd8798d02d6597d889b7e?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "Mr Ace - Demo 1991 Bonus Track",
+  "preview": "https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (US Album) [Remastered]"
+}
+{
+  "artist": "Ace of Base",
+  "name": "The Sign - Long Version",
+  "preview": "https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (The Remixes)"
+}
+{
+  "artist": "Ace of Base",
+  "name": "The Sign - Ultimix",
+  "preview": "https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (The Remixes)"
+}
+{
+  "artist": "Ace of Base",
+  "name": "The Sign",
+  "preview": "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (The Remixes)"
+}
+{
+  "artist": "Ace of Base",
+  "name": "The Sign - Dub Version",
+  "preview": "https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Sign (The Remixes)"
+}
+{
+  "title": "Title: 3 Idiots",
+  "release": "Year released: 2009",
+  "imdbRating": "IMDB Rating: 8.4/10",
+  "rottenTomatoes": "Rotten Tomatoes Rating: 100%",
+  "country": "Film produced in India",
+  "language": "This film is in Hindi, English",
+  "plot": "Synopsis: Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+  "actors": "Actors: Aamir Khan, Madhavan, Sharman Joshi, Kareena Kapoor"
+}
+{
+  "artist": "Backstreet Boys",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Hits--Chapter One"
+}
+{
+  "artist": "Backstreet Boys",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Millennium"
+}
+{
+  "artist": "Backstreet Boys",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Essential Backstreet Boys"
+}
+{
+  "artist": "Anthem Lights",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Covers Part IV"
+}
+{
+  "artist": "Manuel Costa",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "I Want It That Way"
+}
+{
+  "artist": "Glee Cast",
+  "name": "Bye Bye Bye / I Want It That Way (Glee Cast Version)",
+  "preview": "https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
+}
+{
+  "artist": "\"Weird Al\" Yankovic",
+  "name": "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)",
+  "preview": "https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Poodle Hat"
+}
+{
+  "artist": "Backstreet Boys",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "90 Sweet 90s Hits!"
+}
+{
+  "artist": "Dynamite Boy",
+  "name": "I Want It That Way",
+  "preview": null,
+  "album": "Punk Goes Pop"
+}
+{
+  "artist": "Backstreet Boys",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "NKOTBSB"
+}
+{
+  "artist": "Steel Panther",
+  "name": "I Want It That Way",
+  "preview": null,
+  "album": "I Want It That Way"
+}
+{
+  "artist": "Boyce Avenue",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Cover Sessions, Vol. 2"
+}
+{
+  "artist": "\"Weird Al\" Yankovic",
+  "name": "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)",
+  "preview": "https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "The Essential \"Weird Al\" Yankovic"
+}
+{
+  "artist": "Landon Austin & Julia Sheer",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "I Want It That Way"
+}
+{
+  "artist": "Kyle Olthoff",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "I Want It That Way"
+}
+{
+  "artist": "Jason Chen",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "I Want It That Way"
+}
+{
+  "artist": "Scott Bradlee's Postmodern Jukebox",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Selfies on Kodachrome"
+}
+{
+  "artist": "Scary Pockets",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "Nu Funk"
+}
+{
+  "artist": "Backstreet Boys",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "NOW That's What I Call 90s Pop"
+}
+{
+  "artist": "FROIDZ",
+  "name": "I Want It That Way",
+  "preview": "https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=c3dde4750aab43a09095da2bf52641b5",
+  "album": "I Want It That Way"
+}
