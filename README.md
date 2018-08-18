@@ -6,6 +6,9 @@ This project uses Node.js and JavaScript to create a command line app that funct
 
 Twitter and Spotify require any potential users to provide their own .env file with keys to the different APIs. OMBD has an access key built into the code but it would work more reliably if you provided your personal key. Default searches are provided for both OMBD and Spotify.
 
+## App Screenshot
+![liri-nore-app](LiriNodeApp.jpg)
+
 ##Prerequisites
 
 * Dotenv
