@@ -1,0 +1,36 @@
+{
+  "TIME": "Mon Apr 15 20:54:29 +0000 2019",
+  "TWEET": "RT @HeathHlatshwayo: @CyrilRamaphosa Hello fam. I'm Heath Hlatshwayo. I do art , and below is a painting on canvas I did of ubaba @tito_mbo…"
+}
+{
+  "TIME": "Sat Apr 13 03:09:17 +0000 2019",
+  "TWEET": "RT @subbureddyy: Since we are on a black hole meme theme: Scientists have just released the first known pictures of an actual black hole. T…"
+}
+{
+  "TIME": "Tue Apr 16 16:39:47 +0000 2019",
+  "TWEET": "RT @kngarou: No I'm in bed https://t.co/6xPtnrKdRc"
+}
+{
+  "TIME": "Thu Apr 04 20:46:44 +0000 2019",
+  "TWEET": "RT @CNN: For the first time ever, electric cars outsold gas and diesel vehicles in Norway, accounting for nearly 60% of all vehicle sales l…"
+}
+{
+  "TIME": "Thu Apr 04 20:40:07 +0000 2019",
+  "TWEET": "RT @angryasianman: HOLY SHIT. https://t.co/c9HWBZ7uNJ"
+}
+{
+  "TIME": "Tue Apr 09 20:39:44 +0000 2019",
+  "TWEET": "RT @jameshamblin: Doctors: vaccines are extremely safe and very important, and this has been proven many many times over decades\n\nPeople: h…"
+}
+{
+  "TIME": "Mon Apr 08 06:12:46 +0000 2019",
+  "TWEET": "Can imagine David Brent/Michael Scott from The Office sitting in their cabin googling Three C's, then talking into… https://t.co/Pbk8XIOCfs"
+}
+{
+  "TIME": "Thu Apr 04 20:36:38 +0000 2019",
+  "TWEET": "RT @muteista: flemings right hand rule https://t.co/SiehPX7FrF"
+}
+{
+  "TIME": "Wed Apr 24 06:51:06 +0000 2019",
+  "TWEET": "RT @donni: Maybe your brain is mean to you because it has a crush on you"
+}
